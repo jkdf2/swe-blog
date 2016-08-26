@@ -4,4 +4,4 @@ title: about
 permalink: /about/
 ---
 
-**TODO**: Describe your blog here :)
+A blog about my experience in CS 371P - Object Oriented Programming with Professor Glenn Downing.

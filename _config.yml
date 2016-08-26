@@ -1,21 +1,18 @@
-# TODO: Set up this entire file
 # Site settings
-title: pretty simple theme
-email: TODO
+title: Object Oriented Programming in C++ 
+email: Taylor.Kline@utexas.edu
 description: > # this means to ignore newlines in this block
-   a pretty, simple theme for Jekyll.
+   an OOP blog.
 # used for the canonical header and for the RSS link
-url: https://pretty-simple.github.io/pretty-simple-theme # TODO
+url: https://oop-blog-taylor.github.io/oop-blog
 
 #removing any of this will omit the relevant HTML
 #to add more SVGs, see: http://codepen.io/ruandre/pen/howFi
-twitter_username: TODO
-instagram_username: TODO
-github_username: TODO
-facebook_username: TODO
-linkedin_username: TODO
+github_username: jkdf2
+facebook_username: taylor.kline.me
+linkedin_username: taylorckline
 
-timezone: America/Chicago # TODO
+timezone: America/Chicago
 encoding: utf-8
 
 gems:
