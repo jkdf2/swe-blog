@@ -1,8 +1,8 @@
 # Site settings
-title: Object Oriented Programming in C++ 
+title: CS371p Fall 2016: Taylor Kline
 email: Taylor.Kline@utexas.edu
 description: > # this means to ignore newlines in this block
-   an OOP blog.
+   Object Oriented Programming in C++
 # used for the canonical header and for the RSS link
 url: https://oop-blog-taylor.github.io
 baseurl: /oop-blog
