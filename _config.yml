@@ -4,7 +4,8 @@ email: Taylor.Kline@utexas.edu
 description: > # this means to ignore newlines in this block
    an OOP blog.
 # used for the canonical header and for the RSS link
-url: https://oop-blog-taylor.github.io/oop-blog
+url: https://oop-blog-taylor.github.io
+baseurl: /oop-blog
 
 #removing any of this will omit the relevant HTML
 #to add more SVGs, see: http://codepen.io/ruandre/pen/howFi
