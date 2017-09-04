@@ -1,11 +1,11 @@
 # Site settings
-title: "CS371p Fall 2016: Taylor Kline"
-email: Taylor.Kline@utexas.edu
+title: "CS373 Fall 2017: Taylor Kline"
+email: taylor.kline@utexas.edu
 description: > # this means to ignore newlines in this block
-   Object Oriented Programming in C++
+   Software Engineering in Python
 # used for the canonical header and for the RSS link
-url: https://oop-blog-taylor.github.io
-baseurl: /oop-blog
+url: https://jkdf2.github.io
+baseurl: /swe-blog
 
 #removing any of this will omit the relevant HTML
 #to add more SVGs, see: http://codepen.io/ruandre/pen/howFi

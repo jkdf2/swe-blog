@@ -4,4 +4,4 @@ title: about
 permalink: /about/
 ---
 
-A blog about my experience in CS 371P - Object Oriented Programming with Professor Glenn Downing.
+A blog about my experience in CS 373 - Software Engineering with Professor Glenn Downing.
